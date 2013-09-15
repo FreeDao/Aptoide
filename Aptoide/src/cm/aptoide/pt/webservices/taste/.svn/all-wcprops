@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/taste
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/taste/.directory
+END
+EnumUserTaste.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/taste/EnumUserTaste.java
+END
+Likes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/taste/Likes.java
+END
+EnumResponseTasteElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/taste/EnumResponseTasteElement.java
+END

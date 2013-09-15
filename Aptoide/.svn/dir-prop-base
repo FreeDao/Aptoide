@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 42
+gen
+bin
+locale
+ant.properties
+AptoideAuth
+
+END

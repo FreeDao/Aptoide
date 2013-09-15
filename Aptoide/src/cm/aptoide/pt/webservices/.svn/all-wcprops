@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices
+END
+WebserviceGetApkInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/WebserviceGetApkInfo.java
+END
+EnumResponseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/EnumResponseStatus.java
+END
+MalwareStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/MalwareStatus.java
+END
+ResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/ResponseHandler.java
+END
+EnumSimpleResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/EnumSimpleResponse.java
+END
+EnumDownloadMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/EnumDownloadMode.java
+END
+TasteModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/TasteModel.java
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/.directory
+END

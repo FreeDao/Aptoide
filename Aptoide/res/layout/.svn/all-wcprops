@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout
+END
+row_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_grid_item.xml
+END
+dialog_hw_specs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_hw_specs.xml
+END
+splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/splash.xml
+END
+page_featured.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/page_featured.xml
+END
+banner_sticky.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/banner_sticky.xml
+END
+form_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/form_login.xml
+END
+app_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/app_info.xml
+END
+form_logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/form_logout.xml
+END
+form_add_comment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/form_add_comment.xml
+END
+download_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/download_manager.xml
+END
+activity_aptoide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/activity_aptoide.xml
+END
+row_stores.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_stores.xml
+END
+breadcrumb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/breadcrumb.xml
+END
+row_app_downloaded.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_app_downloaded.xml
+END
+row_app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_app.xml
+END
+list_all_comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/list_all_comments.xml
+END
+action_bar_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/action_bar_home.xml
+END
+row_latest_likes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_latest_likes.xml
+END
+hwspecs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/hwspecs.xml
+END
+dialog_add_pvt_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_add_pvt_store.xml
+END
+page_available.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/page_available.xml
+END
+dialog_order_popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_order_popup.xml
+END
+dialog_anti_malware.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_anti_malware.xml
+END
+footer_add_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/footer_add_store.xml
+END
+row_notification_progress_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_notification_progress_bar.xml
+END
+row_excluded_update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_excluded_update.xml
+END
+dialog_about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_about.xml
+END
+webview_twitter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/webview_twitter.xml
+END
+row_sch_download.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_sch_download.xml
+END
+row_related_griditem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_related_griditem.xml
+END
+row_app_downloading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_app_downloading.xml
+END
+row_catg_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_catg_list.xml
+END
+searchmanager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/searchmanager.xml
+END
+webview_facebook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/webview_facebook.xml
+END
+page_updates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/page_updates.xml
+END
+paypal_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/paypal_account.xml
+END
+loadingfootercomments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/loadingfootercomments.xml
+END
+actionbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/actionbar.xml
+END
+dialog_simple_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_simple_layout.xml
+END
+footer_refresh_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/footer_refresh_view.xml
+END
+paypalbuy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/paypalbuy.xml
+END
+row_comment_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_comment_item.xml
+END
+breadcrumb_container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/breadcrumb_container.xml
+END
+row_app_update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_app_update.xml
+END
+dialog_share_facebook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_share_facebook.xml
+END
+quickaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/quickaction.xml
+END
+row_quick_action_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_quick_action_item.xml
+END
+list_excluded_uploads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/list_excluded_uploads.xml
+END
+screenshots_viewer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/screenshots_viewer.xml
+END
+list_sch_downloads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/list_sch_downloads.xml
+END
+footer_update_all_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/footer_update_all_view.xml
+END
+dialog_add_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_add_store.xml
+END
+form_create_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/form_create_user.xml
+END
+row_item_screenshots_gallery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_item_screenshots_gallery.xml
+END
+dialog_social_networks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_social_networks.xml
+END
+row_item_screenshots_big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_item_screenshots_big.xml
+END
+row_app_not_downloaded.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_app_not_downloaded.xml
+END
+row_latest_comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/row_latest_comments.xml
+END
+dialog_ip_blacklisted.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/dialog_ip_blacklisted.xml
+END
+footer_search_aptoide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/res/layout/footer_search_aptoide.xml
+END

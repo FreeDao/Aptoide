@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/services
+END
+ServiceDownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/services/ServiceDownloadManager.java
+END
+AIDLServiceDownloadManager.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/services/AIDLServiceDownloadManager.aidl
+END
+MainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/services/MainService.java
+END
+HelperDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/services/HelperDownload.java
+END

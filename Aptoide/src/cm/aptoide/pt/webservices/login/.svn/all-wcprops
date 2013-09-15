@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/login
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/login/.directory
+END
+CreateUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/login/CreateUser.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/webservices/login/Login.java
+END

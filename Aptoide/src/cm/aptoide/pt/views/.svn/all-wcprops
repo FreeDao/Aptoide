@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views
+END
+ViewCacheObb.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewCacheObb.java
+END
+ViewListDownloads.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewListDownloads.java
+END
+ViewApkLatest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkLatest.java
+END
+ViewApkItemBased.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkItemBased.java
+END
+ViewCache.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewCache.aidl
+END
+ViewDownloadManagement.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewDownloadManagement.aidl
+END
+ViewApkTop.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkTop.java
+END
+ViewDownload.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewDownload.aidl
+END
+ViewApkFeaturedEditorsChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkFeaturedEditorsChoice.java
+END
+ViewLogin.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewLogin.aidl
+END
+ViewObb.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewObb.java
+END
+ViewCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewCache.java
+END
+ViewDownloadManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewDownloadManagement.java
+END
+EnumDownloadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/EnumDownloadStatus.java
+END
+EnumDownloadFailReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/EnumDownloadFailReason.java
+END
+ViewDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewDownload.java
+END
+ViewApkInfoXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkInfoXml.java
+END
+ViewLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewLogin.java
+END
+ViewApkUserBased.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkUserBased.java
+END
+ViewApk.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApk.java
+END
+ViewIconDownloadPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewIconDownloadPermissions.java
+END
+ViewCacheObb.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewCacheObb.aidl
+END
+ViewApkFeaturedTop.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewApkFeaturedTop.java
+END
+EnumApkMalware.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/EnumApkMalware.java
+END
+ViewListDownloads.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/views/ViewListDownloads.aidl
+END

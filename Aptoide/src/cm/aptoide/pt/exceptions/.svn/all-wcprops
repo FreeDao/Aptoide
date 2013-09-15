@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/exceptions
+END
+AptoideException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/exceptions/AptoideException.java
+END
+AptoideExceptionDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/exceptions/AptoideExceptionDownload.java
+END
+AptoideExceptionNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/exceptions/AptoideExceptionNotFound.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util
+END
+Algorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/Algorithms.java
+END
+NetworkUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/NetworkUtils.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/Constants.java
+END
+DateTimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/DateTimeUtils.java
+END
+AutoScaleTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/AutoScaleTextView.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/Utils.java
+END
+Md5Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/Md5Handler.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/Base64.java
+END
+RepoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1303/aptoide-client/4.1.1/Aptoide/src/cm/aptoide/pt/util/RepoUtils.java
+END
